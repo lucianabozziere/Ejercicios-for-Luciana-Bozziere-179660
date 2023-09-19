@@ -1,3 +1,4 @@
+/*sucesion de numeros*/
 #include<stdio.h>
 int main()
 {

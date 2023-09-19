@@ -1,3 +1,4 @@
+/*Suma de los cuadrados de los primeros 100 numeros*/
 #include<stdio.h>
 #include<math.h>
 
